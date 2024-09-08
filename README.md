@@ -5,7 +5,7 @@
 
 因此在使用时可能出现以下情况：
 
-**未响应、闪退和~~牢大复活~~等**
+**未响应、闪退等**
 
 如遇问题请停用并卸载模块并寻求其他解决方案
 
@@ -17,6 +17,7 @@
 - [x] 隐藏拉黑用户的专区发帖
 - [x] 折叠拉黑用户的专区回复
 - [ ] 隐藏拉黑用户的首页推荐
+- [ ] 关键词屏蔽
 
 ## 安装
 ### :warning: 未ROOT用户使用需要卸载旧的虎扑 :warning:
@@ -39,5 +40,4 @@
 <img src="https://github.com/AmamiyaHotaru/HupuBlackList/blob/main/img/Screenshot_20240411_190041.jpg" alt="Image text" width="50%" />
 
 ## 鸣谢
-* [Xposed](https://github.com/rovo89/Xposed)
 * [LSPosed](https://github.com/LSPosed/LSPosed)
